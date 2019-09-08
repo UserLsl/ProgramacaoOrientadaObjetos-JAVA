@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="857435fc-2499-4db5-a6c2-b728bd4a1244" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aulas/Aula03_2019-08-20 - ProjetoEntrada/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula01_2019-08-06 - ExemploEstruturas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula01_2019-08-06 - ExemploEstruturas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula02_2019-08-13 - ProjetoApolice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula02_2019-08-13 - ProjetoApolice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula02_2019-08-13 - ProjetoExemplo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula02_2019-08-13 - ProjetoExemplo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula03_2019-08-20 - ProjetoEntrada/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula03_2019-08-20 - ProjetoEntrada/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/ControleEstoque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/GerenciarTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/src/com/company/GerenciarTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04_2019-08-27 - ControleEstoque (Desafio)/src/com/company/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/ProjetoAcampamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/out/production/ProjetoAcampamento/com/sartorelli/Acampamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/out/production/ProjetoAcampamento/com/sartorelli/AcampamentoTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/src/com/sartorelli/Acampamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/src/com/sartorelli/AcampamentoTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/Material 03 - Exercicio2_ProjetoComputador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/out/production/Material 03 - Exercicio2_ProjetoComputador/com/sartorelli/Computador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/out/production/Material 03 - Exercicio2_ProjetoComputador/com/sartorelli/ComputadorTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/src/com/sartorelli/Computador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio2_ProjetoComputador/src/com/sartorelli/ComputadorTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/Material 03 - Exercicio2_ProjetoConta.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/out/production/Material 03 - Exercicio2_ProjetoConta/com/sartorelli/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/out/production/Material 03 - Exercicio2_ProjetoConta/com/sartorelli/ContaTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/src/com/sartorelli/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Material 03 - Exercicio3_ProjetoConta/src/com/sartorelli/ContaTeste.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\lucas\OneDrive\Documents\FATEC\4ºPeriodo\Programação Orientada a Objetos\ProjetoJogador\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QYX3RACKN80FGcpr5aw05S9Mt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sartorelli.GerenciarJogador" />
+      <module name="ProjetoJogador" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857435fc-2499-4db5-a6c2-b728bd4a1244" name="Default Changelist" comment="" />
+      <created>1567948303367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567948303367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

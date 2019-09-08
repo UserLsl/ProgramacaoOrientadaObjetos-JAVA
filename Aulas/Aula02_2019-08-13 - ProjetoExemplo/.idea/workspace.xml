@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9abf3da0-a2c3-4cd7-9440-45cf9794d69e" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="9abf3da0-a2c3-4cd7-9440-45cf9794d69e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula01_2019-08-06 - ExemploEstruturas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula01_2019-08-06 - ExemploEstruturas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02_2019-08-13 - ProjetoApolice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula02_2019-08-13 - ProjetoApolice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/ControleEstoque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/GerenciarTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/src/com/company/GerenciarTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04_2019-08-27 - ControleEstoque (Desafio)/src/com/company/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/ProjetoAcampamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/out/production/ProjetoAcampamento/com/sartorelli/Acampamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/out/production/ProjetoAcampamento/com/sartorelli/AcampamentoTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/src/com/sartorelli/Acampamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio1_ProjetoAcampamento/src/com/sartorelli/AcampamentoTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/Material 03 - Exercicio2_ProjetoComputador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/out/production/Material 03 - Exercicio2_ProjetoComputador/com/sartorelli/Computador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/out/production/Material 03 - Exercicio2_ProjetoComputador/com/sartorelli/ComputadorTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/src/com/sartorelli/Computador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio2_ProjetoComputador/src/com/sartorelli/ComputadorTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/Material 03 - Exercicio2_ProjetoConta.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/out/production/Material 03 - Exercicio2_ProjetoConta/com/sartorelli/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/out/production/Material 03 - Exercicio2_ProjetoConta/com/sartorelli/ContaTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/src/com/sartorelli/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/Material 03 - Exercicio3_ProjetoConta/src/com/sartorelli/ContaTeste.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,28 +64,6 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CalcularTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Pessoa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -42,48 +71,18 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/company/CalcularTeste.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Pessoa.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="800" />
     <option name="height" value="860" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Projeto_2019-08-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_2019-08-13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projeto_2019-08-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_2019-08-13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projeto_2019-08-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_2019-08-13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1QYY5ECP97yAIqhleisKt0IOtvH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula03_2019-08-20 - ProjetoEntrada" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,52 +126,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1651671" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalcularTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

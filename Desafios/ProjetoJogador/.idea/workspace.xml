@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="857435fc-2499-4db5-a6c2-b728bd4a1244" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/ControleEstoque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/GerenciarTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/src/com/company/GerenciarTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/src/com/company/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/ProjetoJogador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/out/production/ProjetoJogador/com/sartorelli/GerenciarJogador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/out/production/ProjetoJogador/com/sartorelli/Jogador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/out/production/ProjetoJogador/com/sartorelli/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/src/com/sartorelli/GerenciarJogador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/src/com/sartorelli/Jogador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/src/com/sartorelli/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/GerenciarJogador.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/Jogador.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/Time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/class-use/GerenciarJogador.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/class-use/Jogador.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/class-use/Time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/com/sartorelli/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoJogador_Javadoc/stylesheet.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\lucas\OneDrive\Documents\FATEC\4ºPeriodo\Programação Orientada a Objetos\ProjetoJogador\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QYX3RACKN80FGcpr5aw05S9Mt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sartorelli.GerenciarJogador" />
+      <module name="ProjetoJogador" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857435fc-2499-4db5-a6c2-b728bd4a1244" name="Default Changelist" comment="" />
+      <created>1567948303367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567948303367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

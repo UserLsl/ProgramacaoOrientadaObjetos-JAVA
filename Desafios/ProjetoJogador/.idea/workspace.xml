@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857435fc-2499-4db5-a6c2-b728bd4a1244" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/ControleEstoque.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/GerenciarTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/out/production/ControleEstoque/com/company/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/src/com/company/GerenciarTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios/ControleEstoque (Desafio)/src/com/company/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aulas/Aula05-2019-09-03 - GerenciarJogador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aulas/Aula05-2019-09-03 - GerenciarJogador/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ProjetoComputador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercicios/ProjetoComputador/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios/ProjetoFuncionarios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercicios/ProjetoFuncionarios/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetoJogador/.idea/misc.xml" beforeDir="false" />
